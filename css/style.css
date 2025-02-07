@@ -92,7 +92,7 @@ h4,
 h5,
 h6 {
     font-family: Poppins, sans-serif;
-    color: #df3c71;
+    color: #f12c30;
     font-weight: 600
 }
 
@@ -233,11 +233,11 @@ span.circle2 {
 }
 
 .text-primary {
-    color: #fe4c1c
+    color: #fe4c1c;
 }
 
 .text-second {
-    color: #e91e63
+    color: #f12c30;
 }
 
 .header-icon-nav a {
@@ -2160,7 +2160,7 @@ footer.ftshap:before {
 }
 
 .footer-row3 {
-    background: #df3c71;
+    background: #f12c30;
     padding: 40px 0
 }
 
@@ -6067,7 +6067,7 @@ html .pb140 {
     background: #f92c8b;
     background: -moz-linear-gradient(left, #f92c8b 0, #b02cd6 100%);
     background: -webkit-linear-gradient(left, #f92c8b 0, #b02cd6 100%);
-    background: linear-gradient(to right, #f92c8b 0, #b02cd6 100%);
+    background: linear-gradient(to right, #0ec224 0, #3ae721 100%);
     -webkit-box-shadow: 0 10px 15px 0 rgba(175, 0, 202, .2);
     box-shadow: 0 10px 15px 0 rgba(175, 0, 202, .2)
 }
